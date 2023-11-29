@@ -4,8 +4,8 @@ This is a Python script that calculates ELO ratings for a table tennis league.
 
 ## Player ratings
 
-1. Per: 1216
-2. Jannis: 1184
+1. Per: 1231
+2. Jannis: 1169
 
 ## Usage
 
