@@ -1,6 +1,6 @@
 # ELO ratings
 
-This is a Python script that calculates ELO ratings for a table tennis league.
+This is a Python script that calculates ELO ratings for ~casual~ very serious table tennis games.
 
 ## Player ratings
 
