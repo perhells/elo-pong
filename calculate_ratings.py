@@ -76,7 +76,7 @@ def main():
         player_ratings = update_ratings(player_ratings, game)
 
     print("# ELO ratings\n")
-    print("This is a Python script that calculates ELO ratings for a table tennis league.\n")
+    print("This is a Python script that calculates ELO ratings for ~casual~ very serious table tennis games.\n")
     print("## Player ratings\n")
 
     i = 1
