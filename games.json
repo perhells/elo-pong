@@ -19,5 +19,26 @@
       "Jannis": 1,
       "Per": 2
     }
+  },
+  {
+    "date": "2023-12-19",
+    "result": {
+      "Jannis": 0,
+      "Patrik": 3
+    }
+  },
+  {
+    "date": "2023-12-19",
+    "result": {
+      "Per": 3,
+      "Patrik": 1
+    }
+  },
+  {
+    "date": "2023-12-19",
+    "result": {
+      "Patrik": 2,
+      "Victor": 0
+    }
   }
 ]
