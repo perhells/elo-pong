@@ -4,8 +4,8 @@ This is a Python script that calculates ELO ratings for ~casual~ very serious ta
 
 ## Player ratings
 
-1. Per: 1231
-2. Jannis: 1169
+1. Per: 1244
+2. Jannis: 1156
 
 ## Usage
 
