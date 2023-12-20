@@ -23,6 +23,13 @@
   {
     "date": "2023-12-19",
     "result": {
+      "Per": 2,
+      "Ernst": 1
+    }
+  },
+  {
+    "date": "2023-12-19",
+    "result": {
       "Jannis": 0,
       "Patrik": 3
     }
