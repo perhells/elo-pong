@@ -5,8 +5,8 @@ This is a Python script that calculates ELO ratings for ~casual~ very serious ta
 ## Player ratings
 
 1. Per: 1272
-2. Patrik: 1215
-3. Ernst: 1187
+2. Patrik: 1216
+3. Ernst: 1186
 4. Victor: 1184
 5. Jannis: 1142
 
